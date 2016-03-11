@@ -16,7 +16,7 @@ git clone --recursive https://github.com/daniel-j/unicorn-fft.git
 
 cd unicorn-fft
 
-# Compile unicorn-fft and unicorn-hat lib. Use just 'make' to build unicorn-fft
+# Compile unicorn-fft and unicorn-hat lib. Use just 'make' to build only unicorn-fft
 make all
 ```
 You can then try the examples `examples/arecord.sh` and `examples/radio.sh`
