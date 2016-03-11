@@ -10,8 +10,10 @@ Click to watch demo on YouTube
 ```
 # Install dependencies
 sudo apt-get update && sudo apt-get install libfftw3-dev
+
 # Important to clone recursive to get unicorn-hat lib!
 git clone --recursive https://github.com/daniel-j/unicorn-fft.git
+
 # this compiles unicorn-fft and unicorn-hat lib. Use jsut make to build unicorn-fft
 make all
 ```
