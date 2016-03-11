@@ -3,6 +3,7 @@ If you're looking for something to use with [PiGlow](https://shop.pimoroni.com/p
 
 ## Demo!
 Click to watch demo on YouTube
+
 [![YouTube video demo](http://img.youtube.com/vi/g3sxXgLr1uQ/0.jpg)](http://www.youtube.com/watch?v=g3sxXgLr1uQ)
 
 ## Install and build
@@ -22,6 +23,3 @@ You can then try the examples `examples/arecord.sh` and `examples/radio.sh`
 This project uses code from [raspberry-vu](https://github.com/rm-hull/raspberry-vu) which is a fork of [Impulse](https://github.com/ianhalpern/Impulse), which I base my FFTW function calls on.
 
 Also special thanks to Damien for his guide [FFT Averages](http://code.compartmental.net/2007/03/21/fft-averages/), which makes it all prettier!
-
-## License
-
